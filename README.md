@@ -1,0 +1,2 @@
+# ScreenEdgePanGestureDemo
+自定义全屏右滑返回手势
